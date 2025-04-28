@@ -1,4 +1,5 @@
 Introduction
+
 Employee turnover is expensive, disruptive, and often avoidable if analyzed carefully. For our final project, we explored the IBM HR Analytics Employee Attrition dataset to understand why employees leave companies and how we can predict attrition before it occurs. Using Python, structured exploration, and modeling techniques, we aimed to build a predictive model that could assist HR teams in making informed retention decisions.
 Understanding the Dataset
 The IBM HR Analytics dataset provided a comprehensive snapshot of 1,470 employees, featuring 35 attributes related to demographics, work experience, compensation, and satisfaction levels.
